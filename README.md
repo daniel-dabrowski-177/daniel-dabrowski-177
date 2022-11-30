@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
 [My CV (pl): 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski.pdf)
 
