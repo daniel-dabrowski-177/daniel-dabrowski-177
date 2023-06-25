@@ -1,6 +1,6 @@
 ### Welcome to My profile 👋
 
-[My CV (pl): 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski.pdf)
+[My CV (pl): 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski_PL.pdf)
 
 [My CV (en): 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski_EN.pdf)
 
