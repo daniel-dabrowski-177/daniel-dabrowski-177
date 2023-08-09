@@ -4,7 +4,7 @@
 
 [My CV (en): 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski_EN.pdf)
 
-[Check out my portfolio 🐪: 📃](https://caster-porfolio.netlify.app)
+[Check out my portfolio : 🐪](https://caster-porfolio.netlify.app)
 
 [My Linked in profile:  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="16px" height="16px"/>](https://www.linkedin.com/in/daniel-dąbrowski-1812b41b4/)
 
