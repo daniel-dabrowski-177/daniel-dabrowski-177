@@ -1,11 +1,48 @@
 ### Welcome to My profile 👋
 
-[My CV (pl): 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski_PL.pdf)
+## About me:
 
-[My CV (en): 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski_EN.pdf)
+<i>I am a graduate of the Krakow University of Technology and have been involved in front-end development for 4 years. Apart from web development, he is interested in technology and physics in general. In my free time, I expand my knowledge in these fields. In all my free time, I also work on my own projects, developing my skills and gaining experience. I enjoy developing my skills in the frontend. I am very open to new experiences. I like challenges and I really appreciate the friendly atmosphere and good relationships in the team.</i>
+
+## Technologies:
+
+- Very good knowledge of HTML, CSS i JS
+- Creating responsive websites (RWD)
+- Working with Git using GitHub
+- Knowledge of the Sass preprocessor
+- Ability to write unit tests using the Jest library
+- Knowledge of Jira software and work in the Scrum methodology
+- Knowledge of Angular 16 and the RxJs library
+- Knowledge of TypeScript and NgRx
+- Knowledge of databases such as MySQL and MongoDB
+- Knowledge of website optimization methods (SEO)
+- Ability to work with CI/CD tools
+
+## Abilities:
+
+- HTML, CSS & JavaScript
+- SASS, StyledComponents
+- REST API
+- Angular 16, RxJs, NgRx
+- Node.js
+- Git, GitHub
+- Figma, Codux & Photoshop
+- MongoDB & MySQL
+
+## My CV:
+
+[Daniel Dąbrowski_CV_PL: 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski_PL.pdf)
+
+[Daniel Dąbrowski_CV_EN: 📃](https://github.com/daniel-dabrowski-177/daniel-dabrowski-177/blob/main/CV_Daniel_Dąbrowski_EN.pdf)
+
+## Portfolio:
 
 [Check out my portfolio : 🐪](https://caster-porfolio.netlify.app)
 
-[My Linked in profile:  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="16px" height="16px"/>](https://www.linkedin.com/in/daniel-dąbrowski-1812b41b4/)
+## Linked in profile:
 
-[My Projects: <img src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" width="16px" height="16px"/>](https://app.netlify.com/teams/caster/sites)
+[Linked in:  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="16px" height="16px"/>](https://www.linkedin.com/in/daniel-dąbrowski-1812b41b4/)
+
+## Other projects:
+
+[Netlify: <img src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" width="16px" height="16px"/>](https://app.netlify.com/teams/caster/sites)
